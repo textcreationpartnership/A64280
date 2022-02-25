@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tears of Rome: or the despair of the Pope for the ill success of the Plot In a dialogue between the Pope, the devil, the Jesuit Ignatius, and the Cardinal Barbarin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64280</idno>
+            <idno type="STC">Wing T607A</idno>
+            <idno type="STC">ESTC R221722</idno>
+            <idno type="EEBO-CITATION">99832991</idno>
+            <idno type="PROQUEST">99832991</idno>
+            <idno type="VID">37466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37466)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2156:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tears of Rome: or the despair of the Pope for the ill success of the Plot In a dialogue between the Pope, the devil, the Jesuit Ignatius, and the Cardinal Barbarin.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:37466:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>THE Tears of ROME: Or the Deſpair of the POPE For the Ill Succeſs of the PLOT.</head>
+            <head type="sub">In a DIALOGUE between the Pope, the Devil, the Jeſuit <hi>Ignatius,</hi> and the Cardinal <hi>Barbarin.</hi>
+            </head>
+            <sp>
+               <speaker>The Pope.</speaker>
+               <p>REally Maſter Devil, I don't know what Name I muſt give you at this time; for whereas formerly you were the ſtrong upholder of our Reign, now it ſeems that you are the deſtroyer of it. You made me hope that I ſhould recover my dear <hi>England,</hi> if I would but ſend one of thoſe Light Thunders, that they call Excommunication, but they prove but bruitiſh, and did as an Arrow ſent againſt a Marble-Wall; and ſo unleſs you take better Meaſures, I am afraid I ſhall be bound to leave your Worſhip, for to go unto thoſe naked Churches of the <hi>Preſ<g ref="char:EOLhyphen"/>byterians,</hi> wherein they do ſerve God only, without any men<g ref="char:EOLhyphen"/>tion of yours.</p>
+            </sp>
+            <sp>
+               <speaker>The Devil.</speaker>
+               <p>Nay, my dear Colleague and Brother, don't run ſo faſt, and believe that I have more than one way to be as good as my word: <hi>Hac non Succeſſit, alià tentandum eſt vià.</hi> But I remember I muſt thank ye for thoſe ſweet Burnt-Sacrifices of your Children lately Canonized at <hi>Tyburn:</hi> No Roſt-Beef was ever of better taſt, and my Noſtrils have been Corked by me for to keep the Smell of it. Now as for the buſineſs, I'le tell thee what I think, you muſt ſend our Dear Siſter <hi>Diſcordia</hi> for to ſet them all by the Ears; and do but ſay you have got
+<pb n="2" facs="tcp:37466:2"/>
+                  <!-- PDF PAGE 9 -->the beſt of the Noblemen, then it will be an eaſie thing to undoe them all, when you have deprived them of the beſt Pillars of their Religion and Kingdom. This is indeed the beſt Advice I can give you; and for that, ſend ſome of your Jeſuits, make them turn their Religion, if you will, and be<g ref="char:EOLhyphen"/>come of thoſe Proſelytes that go to Church, for to get a ſup<g ref="char:EOLhyphen"/>ply from it; and to accuſe and ſpeak the moſt raſhly of all thoſe Hereticks of the beſt Men of the Land, that will be the way indeed.</p>
+            </sp>
+            <sp>
+               <speaker>The Jeſuite Ignatius.</speaker>
+               <p>Moſt Dear and Dreadful Sovereign, of all the Baſeſt Deeds that ever were, pray pardon me, if I tell your half-Divinity, and whole Unworthineſs, that I cannot a<g ref="char:EOLhyphen"/>bide any longer Maſter Devil his talk, that does never nothing but at my Charges; yes I'le tell it, even if it ſhould coſt me ſome ſtripes obove what is due to me; you never made any ſtep to the worldly and dark Empire, but what was ſigned with the Blood of my Children. 'Tis true, you flatter me with the name of Martyr's Father and Patriarch; but let me tell you, that all that ſmoak of honour is no fire for to make the Pot boyl; and unleſs you provide to it, I'le ſend no more Miſſionaries, I mean Emiſſaries: And if you have a minde to Conquer <hi>England,</hi> you ſhall go your ſelf to try, Whether <hi>London</hi>'s Fire is not hotter than your Phanatical <hi>Purgatory's</hi> Flames.</p>
+            </sp>
+            <sp>
+               <speaker>The Cardinal Barberini.</speaker>
+               <p>Moſt high and mighty Devil, and you the ſecond King of Darkneſs, I muſt confeſs to you, I am much moved with the Jeſuit's Reaſons; and my ſenſe therein is, that we have loſt much in the Fathers <hi>Whitebread, Harcourt,</hi> and the reſt; for they were well bred in any kinde of Lye, Mental Reſtrictions, and high Murtherers, ready to do any kinde of Miſchief: wherefore I conclude that they muſt have the darkeſt room of Hell, and be carried on the <hi>Nero</hi>'s, <hi>Domitian's, Caligula</hi>'s Banks. And that if there be any other Order of miſchievous Monſters, they ought to be ſet in, but with this grand Prerogative, to be given to no others, of everlaſting Enemies of Mankinde, Murtherers of Kings, the Popes only Preſervers, Pillars of Hell, and Mi<g ref="char:EOLhyphen"/>nions of the Devil. And as for the living, they ought to
+<pb n="3" facs="tcp:37466:2"/>
+                  <!-- PDF PAGE 9 -->enjoy all the Priviledges they can wiſh; ſuch as are, to Burn, Violate, Poyſon and undo Princes whomſoever, Houſes, Churches, Maids and Women, or any one of what State, Province and Kingdom they be, that ever diſpleaſed them any way, and under whatever Juſtice, or Reaſon, or Pretence of it.</p>
+            </sp>
+            <sp>
+               <speaker>The Devil.</speaker>
+               <p>Though that was never uſed ſince my Reign, yet in conſideration of <hi>London</hi> burnt, of the great Maſſacre of <hi>Ireland,</hi> of the great Feaſt of St. <hi>Bartholomew,</hi> of the Mur<g ref="char:EOLhyphen"/>ther of the two <hi>Henries</hi> of <hi>France,</hi> and of the never to be forgotten <hi>Whitebread</hi> and <hi>Harcourt,</hi> I will part with my Au<g ref="char:EOLhyphen"/>thority, and releaſe unto them the Power I have of doing any miſchief; and I declare publickly, that I do reſigne my Devilſhip unto the Jeſuits, give them power to Hurt, Kill, undo whatever they pleaſe upon Earth, Sea, Air and Hell; and I do engage my Honour, in the word of an honeſt De<g ref="char:EOLhyphen"/>vil, that I will never recal this Priviledge.</p>
+            </sp>
+            <sp>
+               <speaker>The Pope.</speaker>
+               <p>As for me, I leave to their honeſt direction the uſe of my Keys, and even of the Sword; and do approve all whatever Miſchiefs they have done, or ever ſhall do, and declare for Hereticks and Rebellious, all thoſe that will op<g ref="char:EOLhyphen"/>poſe 'em, or any way diſturb 'em from their honeſt practices; declaring, that they have never done any thing, or never ſhall do, but for my half Godheads Service, Honour and profit of our Church, <hi>The Whore of</hi> Babylon. And as for the Holy League againſt <hi>England,</hi> I do declare it was by my Order, Conſent, and at my Requeſt, that the bleſſed Martyrs, Knigh<g ref="char:EOLhyphen"/>ted at <hi>Tyburne</hi> upon a wooden Horſe, went into <hi>England,</hi> like as <hi>Judith</hi> or <hi>Jael,</hi> for to kill that <hi>Holofernes</hi> or <hi>Siſera, Charles,</hi> whom they call, as indeed he is in ſpight of my teeth, King and Lawful Monarch of <hi>England, Scotland, France,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Defender of the Faith. Which Title indeed was gi<g ref="char:EOLhyphen"/>ven him by my Predeceſſours, though it was after his Parlia<g ref="char:EOLhyphen"/>ment had beſtowed it on him, for good Reaſons, a good while before. And I do farther promiſe in a Popes word, that I'le cauſe the Memory of theſe Martyrs to be honoured through<g ref="char:EOLhyphen"/>out all Chriſtendome, with a double Feaſt <hi>in Pontificalibus,</hi> as of Virgins and Martyrs; and at the High-Maſs it ſhall be ſung,
+<pb n="4" facs="tcp:37466:3"/>
+                  <!-- PDF PAGE 10 -->inſtead of Glory be in Heaven to God, Glory, Honour, and Money be given to the Jeſuits, and upon Earth, Poverty and Miſery to the Men of good-will, with an everlaſting Excom<g ref="char:EOLhyphen"/>munication of all thoſe Hereticks that will any way defend themſelves from their Robbery; for it was agreed, <hi>Clave non errante.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ignatius.</speaker>
+               <p>I do return my hearty thanks unto your Holineſs for this great favour, and I do bind my ſelf, and mine for ever, to purſue, as they have begun to do, any good Deed for you; that is, in plain Engliſh, to Kill, Murder, and the like, of thoſe five Labours of our <hi>Hercules, James Clement Henry</hi> the Third's Murtherer, Father <hi>Burgoin</hi> and <hi>Ravilliac</hi> the Extirpa<g ref="char:EOLhyphen"/>tor of our Enemy <hi>Henry,</hi> they call the great, Grand-Father of this <hi>Charles</hi> of <hi>England</hi> King; and that I ſwear upon the moſt Holy, after you, Sacrament, and the Holy Aſhes of my dear Children <hi>Whitebread</hi> and <hi>Harcourt;</hi> and ſo I pray your Devil<g ref="char:EOLhyphen"/>ſhip to help me.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
